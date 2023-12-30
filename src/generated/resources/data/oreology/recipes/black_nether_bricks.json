@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:basalt"
+    },
+    "N": {
+      "item": "minecraft:nether_brick"
+    }
+  },
+  "pattern": [
+    "#N",
+    "N#"
+  ],
+  "result": {
+    "item": "oreology:black_nether_bricks"
+  },
+  "show_notification": true
+}

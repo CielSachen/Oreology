@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "oreology:tan_bricks"
+  },
+  "result": "oreology:tan_brick_wall"
+}

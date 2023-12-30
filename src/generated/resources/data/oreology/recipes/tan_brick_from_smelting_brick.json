@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 150,
+  "experience": 0.3,
+  "group": "tan_brick",
+  "ingredient": {
+    "item": "minecraft:brick"
+  },
+  "result": "oreology:tan_brick"
+}

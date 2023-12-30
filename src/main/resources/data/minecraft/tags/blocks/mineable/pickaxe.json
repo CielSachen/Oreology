@@ -1,0 +1,20 @@
+{
+  "replace": "false",
+  "values": [
+    "oreology:black_brick_slab",
+    "oreology:black_brick_stairs",
+    "oreology:black_brick_wall",
+    "oreology:black_bricks",
+    "oreology:black_nether_brick_slab",
+    "oreology:black_nether_brick_stairs",
+    "oreology:black_nether_brick_wall",
+    "oreology:black_nether_bricks",
+    "oreology:deepslate_ruby_ore",
+    "oreology:ruby_block",
+    "oreology:ruby_ore",
+    "oreology:tan_brick_slab",
+    "oreology:tan_brick_stairs",
+    "oreology:tan_brick_wall",
+    "oreology:tan_bricks"
+  ]
+}

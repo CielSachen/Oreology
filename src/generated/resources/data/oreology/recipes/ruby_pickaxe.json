@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "oreology:ruby"
+    },
+    "/": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "pattern": [
+    "###",
+    " / ",
+    " / "
+  ],
+  "result": {
+    "item": "oreology:ruby_pickaxe"
+  },
+  "show_notification": true
+}

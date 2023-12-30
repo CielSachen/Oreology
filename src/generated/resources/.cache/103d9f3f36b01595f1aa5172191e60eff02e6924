@@ -1,0 +1,4 @@
+// 1.20.1	2023-12-30T11:40:10.812068	Registries
+0e875249785f85a9a07e9009b87cdfd0127ad401 data/oreology/forge/biome_modifier/add_ruby_ore.json
+ebd34800b92bef77e1e4ce6e4407d4ad4e5cc9e2 data/oreology/worldgen/configured_feature/ruby_ore.json
+fdf7fc3df9a12d17017f8dfd8894299c85bd695b data/oreology/worldgen/placed_feature/ruby_ore_placed.json

@@ -1,0 +1,8 @@
+{
+  "replace": "false",
+  "values": [
+    "oreology:deepslate_ruby_ore",
+    "oreology:ruby_block",
+    "oreology:ruby_ore"
+  ]
+}

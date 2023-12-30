@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "oreology:black_bricks"
+  },
+  "result": "oreology:black_brick_stairs"
+}

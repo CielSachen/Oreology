@@ -1,0 +1,16 @@
+{
+  "type": "oreology:ruby_tools_smelting",
+  "conditions": [
+    {
+      "condition": "minecraft:match_tool",
+      "predicate": {
+        "items": [
+          "oreology:ruby_shovel",
+          "oreology:ruby_pickaxe",
+          "oreology:ruby_axe",
+          "oreology:ruby_hoe"
+        ]
+      }
+    }
+  ]
+}

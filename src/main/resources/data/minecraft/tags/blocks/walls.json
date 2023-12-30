@@ -1,0 +1,8 @@
+{
+  "replace": "false",
+  "values": [
+    "oreology:black_brick_wall",
+    "oreology:black_nether_brick_wall",
+    "oreology:tan_brick_wall"
+  ]
+}

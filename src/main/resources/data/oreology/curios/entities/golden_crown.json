@@ -1,0 +1,14 @@
+{
+  "entities": [
+    "player",
+    "armor_stand"
+  ],
+  "slots": [
+    "head"
+  ],
+  "conditions": [
+    {
+      "type": "forge:true"
+    }
+  ]
+}

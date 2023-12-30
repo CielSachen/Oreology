@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "oreology:block/black_nether_bricks",
+    "side": "oreology:block/black_nether_bricks",
+    "top": "oreology:block/black_nether_bricks"
+  }
+}

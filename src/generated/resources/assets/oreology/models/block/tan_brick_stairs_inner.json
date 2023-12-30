@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "oreology:block/tan_bricks",
+    "side": "oreology:block/tan_bricks",
+    "top": "oreology:block/tan_bricks"
+  }
+}

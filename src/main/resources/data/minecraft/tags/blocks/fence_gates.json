@@ -1,0 +1,8 @@
+{
+  "replace": "false",
+  "values": [
+    "oreology:black_nether_brick_fence_gate",
+    "oreology:nether_brick_fence_gate",
+    "oreology:red_nether_brick_fence_gate"
+  ]
+}

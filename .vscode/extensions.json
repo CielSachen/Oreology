@@ -1,0 +1,9 @@
+{
+	"recommendations": [
+		"aaron-bond.better-comments",
+		"levertion.mcjson",
+		"tamasfe.even-better-toml",
+		"vscjava.vscode-gradle",
+		"vscjava.vscode-java-pack"
+	]
+}

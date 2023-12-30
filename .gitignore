@@ -1,0 +1,15 @@
+# vscode
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# gradle
+build/
+.gradle/
+
+# minecraft
+run/
+run-data/
+
+# misc
+**/.DS_Store
